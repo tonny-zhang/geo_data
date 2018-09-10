@@ -1,0 +1,14 @@
+{
+  "name": "geo_data",
+  "version": "1.0.0",
+  "description": "geo",
+  "main": "",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "request": "^2.88.0"
+  },
+  "scripts": {},
+  "author": "wodexintiao@gmail.com",
+  "license": "ISC",
+  "devDependencies": {}
+}
